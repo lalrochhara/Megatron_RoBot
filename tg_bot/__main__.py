@@ -19,7 +19,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hi {}, my name is {}! 
 
-I am Megatron group management bot maintained by [this person](https://t.me/ssj4gogeta).
+I am Megatron group management bot maintained by [Lucifer MorningStar](https://t.me/ssj4gogeta).
 
 To add me to your group click ["HERE"](t.me/Megatron_Robot?startgroup=botstart)
 
@@ -29,9 +29,8 @@ Only Sudo & Support User Can use Special Module if you want use these Modules Co
 
 My future updates will be put into This Channel - [Megatron News](t.me/MegatronUpdate) & My Support Group [Megatron Support](t.me/MegatronSupportGroup).
 
-This is my [Source Code](https://github.com/gogeta0sama/MegatronRobot),
+*Megatron* [Source Code](https://github.com/gogeta0sama/Megatron_RoBot) *Original Fork* [Source Code](https://github.com/ArazoraTaro/LyndaRobot).
 
-**Original Fork [Source Code](https://github.com/ArazoraTaro/LyndaRobot)
 """
 
 HELP_STRINGS = """
